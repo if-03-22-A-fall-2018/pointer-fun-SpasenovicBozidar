@@ -1,3 +1,7 @@
+//SPASENOVIC BOZIDAR
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -21,7 +25,7 @@ int main(int argc, char const *argv[]) {
   *int_pointer = int_value;
 
   print_integers(int_value, int_pointer);
-change_integers(int_value, int_pointer);
+  change_integers(int_value, int_pointer);
 
   scanf("%s\n" );
   return 0;
